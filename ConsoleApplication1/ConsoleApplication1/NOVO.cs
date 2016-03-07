@@ -8,6 +8,6 @@ namespace ConsoleApplication1
 {
     class NOVO
     {
-        public short test();
+             public void test1() {}
     }
 }
